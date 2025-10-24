@@ -1,4 +1,4 @@
-
+//D:\Documents\ideaIU-2025.2.3.win\bin
 public class ColorConverter {
  public static void main(String[] args) {
 
@@ -25,3 +25,4 @@ hslCode[1] * 100 + "%, " + hslCode[2] * 100 + "%");
 cmykCode[1] + "," + cmykCode[2] + "," + cmykCode[3]);
  }
 }
+
